@@ -1,5 +1,5 @@
 # OsintGUI
-AdSint GUI (Address Domain Intelegance) Version
+AdSint GUI (Address Domain Osint) Version
 
 AdSint Adalah Alat GUI OSINT Memiliki Banyak Fungsi Dan Kegunaan Untuk Pemula,
 Alat BerOperasi Pada Mesin Windows, Jika Ada Update Saya Akan Memperbarui Alat Dan Menghapus File Lama
